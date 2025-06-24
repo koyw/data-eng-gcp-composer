@@ -1,4 +1,4 @@
-werkzeug==3.0.0
+werkzeug
 apache-airflow[gcp]==2.10.5
 jinja2==3.0.3
 markupsafe==2.0.1
