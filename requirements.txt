@@ -1,4 +1,4 @@
-werkzeug==0.14.1
-apache-airflow[gcp]
+werkzeug>=2.0.0,<3.0.0
+apache-airflow[gcp]>=2.3.0,<3.0.0
 jinja2==3.0.3
 markupsafe==2.0.1
