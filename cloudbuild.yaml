@@ -47,3 +47,6 @@ steps:
   - .*\.pyc|airflow_monitoring.py
   - /workspace/dags
   - us-central1-airflow1-8a19a028-bucket/dags
+
+options:
+  logging: CLOUD_LOGGING_ONLY
